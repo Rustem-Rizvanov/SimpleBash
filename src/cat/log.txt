@@ -1,0 +1,171 @@
+
+-b -e test.txt 
+-e -b test.txt 
+-b -e -n test.txt 
+-b -e -s test.txt 
+-b -e -t test.txt 
+-b -e -v test.txt 
+-b -n -e test.txt 
+-b -s -e test.txt 
+-b -t -e test.txt 
+-b -v -e test.txt 
+-e -b -n test.txt 
+-e -b -s test.txt 
+-e -b -t test.txt 
+-e -b -v test.txt 
+-e -n -b test.txt 
+-e -s -b test.txt 
+-e -t -b test.txt 
+-e -v -b test.txt 
+-n -b -e test.txt 
+-n -e -b test.txt 
+-s -b -e test.txt 
+-s -e -b test.txt 
+-t -b -e test.txt 
+-t -e -b test.txt 
+-v -b -e test.txt 
+-v -e -b test.txt 
+-b -e -n -s test.txt 
+-b -e -n -t test.txt 
+-b -e -n -v test.txt 
+-b -e -s -n test.txt 
+-b -e -s -t test.txt 
+-b -e -s -v test.txt 
+-b -e -t -n test.txt 
+-b -e -t -s test.txt 
+-b -e -t -v test.txt 
+-b -e -v -n test.txt 
+-b -e -v -s test.txt 
+-b -e -v -t test.txt 
+-b -n -e -s test.txt 
+-b -n -e -t test.txt 
+-b -n -e -v test.txt 
+-b -n -s -e test.txt 
+-b -n -t -e test.txt 
+-b -n -v -e test.txt 
+-b -s -e -n test.txt 
+-b -s -e -t test.txt 
+-b -s -e -v test.txt 
+-b -s -n -e test.txt 
+-b -s -t -e test.txt 
+-b -s -v -e test.txt 
+-b -t -e -n test.txt 
+-b -t -e -s test.txt 
+-b -t -e -v test.txt 
+-b -t -n -e test.txt 
+-b -t -s -e test.txt 
+-b -t -v -e test.txt 
+-b -v -e -n test.txt 
+-b -v -e -s test.txt 
+-b -v -e -t test.txt 
+-b -v -n -e test.txt 
+-b -v -s -e test.txt 
+-b -v -t -e test.txt 
+-e -b -n -s test.txt 
+-e -b -n -t test.txt 
+-e -b -n -v test.txt 
+-e -b -s -n test.txt 
+-e -b -s -t test.txt 
+-e -b -s -v test.txt 
+-e -b -t -n test.txt 
+-e -b -t -s test.txt 
+-e -b -t -v test.txt 
+-e -b -v -n test.txt 
+-e -b -v -s test.txt 
+-e -b -v -t test.txt 
+-e -n -b -s test.txt 
+-e -n -b -t test.txt 
+-e -n -b -v test.txt 
+-e -n -s -b test.txt 
+-e -n -t -b test.txt 
+-e -n -v -b test.txt 
+-e -s -b -n test.txt 
+-e -s -b -t test.txt 
+-e -s -b -v test.txt 
+-e -s -n -b test.txt 
+-e -s -t -b test.txt 
+-e -s -v -b test.txt 
+-e -t -b -n test.txt 
+-e -t -b -s test.txt 
+-e -t -b -v test.txt 
+-e -t -n -b test.txt 
+-e -t -s -b test.txt 
+-e -t -v -b test.txt 
+-e -v -b -n test.txt 
+-e -v -b -s test.txt 
+-e -v -b -t test.txt 
+-e -v -n -b test.txt 
+-e -v -s -b test.txt 
+-e -v -t -b test.txt 
+-n -b -e -s test.txt 
+-n -b -e -t test.txt 
+-n -b -e -v test.txt 
+-n -b -s -e test.txt 
+-n -b -t -e test.txt 
+-n -b -v -e test.txt 
+-n -e -b -s test.txt 
+-n -e -b -t test.txt 
+-n -e -b -v test.txt 
+-n -e -s -b test.txt 
+-n -e -t -b test.txt 
+-n -e -v -b test.txt 
+-n -s -b -e test.txt 
+-n -s -e -b test.txt 
+-n -t -b -e test.txt 
+-n -t -e -b test.txt 
+-n -v -b -e test.txt 
+-n -v -e -b test.txt 
+-s -b -e -n test.txt 
+-s -b -e -t test.txt 
+-s -b -e -v test.txt 
+-s -b -n -e test.txt 
+-s -b -t -e test.txt 
+-s -b -v -e test.txt 
+-s -e -b -n test.txt 
+-s -e -b -t test.txt 
+-s -e -b -v test.txt 
+-s -e -n -b test.txt 
+-s -e -t -b test.txt 
+-s -e -v -b test.txt 
+-s -n -b -e test.txt 
+-s -n -e -b test.txt 
+-s -t -b -e test.txt 
+-s -t -e -b test.txt 
+-s -v -b -e test.txt 
+-s -v -e -b test.txt 
+-t -b -e -n test.txt 
+-t -b -e -s test.txt 
+-t -b -e -v test.txt 
+-t -b -n -e test.txt 
+-t -b -s -e test.txt 
+-t -b -v -e test.txt 
+-t -e -b -n test.txt 
+-t -e -b -s test.txt 
+-t -e -b -v test.txt 
+-t -e -n -b test.txt 
+-t -e -s -b test.txt 
+-t -e -v -b test.txt 
+-t -n -b -e test.txt 
+-t -n -e -b test.txt 
+-t -s -b -e test.txt 
+-t -s -e -b test.txt 
+-t -v -b -e test.txt 
+-t -v -e -b test.txt 
+-v -b -e -n test.txt 
+-v -b -e -s test.txt 
+-v -b -e -t test.txt 
+-v -b -n -e test.txt 
+-v -b -s -e test.txt 
+-v -b -t -e test.txt 
+-v -e -b -n test.txt 
+-v -e -b -s test.txt 
+-v -e -b -t test.txt 
+-v -e -n -b test.txt 
+-v -e -s -b test.txt 
+-v -e -t -b test.txt 
+-v -n -b -e test.txt 
+-v -n -e -b test.txt 
+-v -s -b -e test.txt 
+-v -s -e -b test.txt 
+-v -t -b -e test.txt 
+-v -t -e -b test.txt 
